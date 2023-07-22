@@ -135,7 +135,6 @@ searchsub(name)
 
 # Downloading >>>
 
-# Search >>>
 ```js
 const { baiscopelkdownload } = require("baiscopelk-api");
 
